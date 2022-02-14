@@ -1,0 +1,4 @@
+#!/bin/bash
+# Author: Madhu Akula
+# Starts the xfce4 as part of the startup
+startxfce4 &
